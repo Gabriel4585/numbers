@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Gabriel Garcia  
+2. Student ID: 2344584
+3. Email: gagarcia@chapman.edu
+4. Class: CPSC 298 Linux and Unix
 5. Assignment: numbers 
 
 ## Application Purpose
